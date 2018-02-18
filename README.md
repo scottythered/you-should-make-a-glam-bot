@@ -1,4 +1,6 @@
-# you-should-make-a-glam-bot
+# You Should Totally Make a Twitter Bot for your G/L/A/M
+
+*Note: this is an alternate representation of [this same instruction guide](http://www.scottcarlson.info/you-should-make-a-twitter-bot/). Happy botting.*
 
 Yeah, why not? Despite the [bad rap some bots are (deservedly) getting](http://mashable.com/2017/09/25/russia-botnet-german-election-twitter/#GSp1JDZANiqN), Twitter bots [can either be entertaining](https://techcrunch.com/2017/09/25/researchers-find-that-twitter-bots-can-be-used-for-good/) or a source of good, especially for galleries, libraries, archives, and museums with digital collections.
 
